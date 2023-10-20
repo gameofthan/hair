@@ -1,4 +1,4 @@
-# hair
+# BARBER WEBSITE
 # step 1: copy the github project link.
 
 # step 2: open a vs code.
